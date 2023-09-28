@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+body {
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+}
+
+
+.container {
+    display: block;
+    margin: 0 auto;
+
+}
+
+.food {
+    width:auto;
+    margin: 0 auto;
+    display: block;
+}
